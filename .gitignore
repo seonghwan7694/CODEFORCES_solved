@@ -3,7 +3,6 @@
 
 # folders
 .vscode/
-.settings/
 
 # Compiled Object files
 *.slo
