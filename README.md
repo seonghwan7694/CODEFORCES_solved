@@ -13,7 +13,7 @@
 |         :---------:         | :--------------: | :----: |              :---------:              |
 |   Jun/16/2022 23:35    |   [Codeforces Round #800 (Div. 2)](https://github.com/seonghwan7694/CODEFORCES_solved/tree/main/Codeforces%20Round%20%23800%20(Div.%202)%20-%20Jun%2016%202022)   | [🌏🌏🌏](https://youtu.be/gSa3FExo7KE) | 🤬❌❌❌❌❌ |
 |        Jun/18/2022 23:35        |   [Codeforces Round #801 (Div. 2)](https://github.com/seonghwan7694/CODEFORCES_solved/tree/main/Codeforces%20Round%20%23801%20(Div.%202)%20-%20Jun%2018%202022)   |   [🌏🌏🌏](https://youtu.be/3fmQTV6vTS0)   | 😍❌🤢❌❌❌ |
-|        🚧🚧🚧        |   🚧🚧🚧   |   🚧🚧🚧   | 🚧🚧🚧 |
+|        Jun/16/2022 17:05        |  [Codeforces Round #802 (Div. 2)]()   |   [🌏🌏🌏](https://youtu.be/NW_UIuglQ1I)  | 😍❌❌❌❌❌ |
 |        🚧🚧🚧        |   🚧🚧🚧   |   🚧🚧🚧   | 🚧🚧🚧 |
 |        🚧🚧🚧        |   🚧🚧🚧   |   🚧🚧🚧   | 🚧🚧🚧 |
 |        🚧🚧🚧        |   🚧🚧🚧   |   🚧🚧🚧   | 🚧🚧🚧 |
