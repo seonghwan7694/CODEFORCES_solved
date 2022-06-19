@@ -163,7 +163,7 @@ int main(){
   return 0;
 }
 ```
-## [D2. Tree Queries (Hard Version)](https://codeforces.com/contest/1700/problem/E)
+## [E. Serega the Pirate](https://codeforces.com/contest/1700/problem/E)
 ```c++
 #include <bits/stdc++.h>
 using namespace std;
