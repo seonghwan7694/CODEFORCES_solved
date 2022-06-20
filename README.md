@@ -1,5 +1,5 @@
 # CODEFORCES_solved
-소스코드를 올리고, 코드포스 대회 후기를 남깁니다. <br>
+소스코드를 올리고, Codeforces 대회 후기를 남깁니다. <br>
 
 | Solved | 의미 |
 | :---:  | :--: |
