@@ -1,8 +1,8 @@
-# [Codeforces Round #802](https://codeforces.com/contest/1698)
+# [Codeforces Round #803](https://codeforces.com/contest/1698)
 <img src="./thumbnail.jpg" />
 
 ## 후기
- <br>
+오랜만입니다. <br>
 
 ## [A. XOR Mixup](https://codeforces.com/contest/1698/problem/A)
 ```c++
