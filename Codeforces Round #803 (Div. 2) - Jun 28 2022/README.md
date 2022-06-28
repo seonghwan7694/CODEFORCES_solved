@@ -2,7 +2,7 @@
 <img src="./thumbnail.jpg" />
 
 ## 후기
-오랜만입니다. <br>
+오랜만입니다. 코드포스는 쉬워보이는 문제도 어렵게 느껴지네요. 언제쯤 2솔브를 할지... 문제를 잘 이해하기만 해도 풀 수 있을 것 같은데 영어때문에.. 휴... <br>
 
 ## [A. XOR Mixup](https://codeforces.com/contest/1698/problem/A)
 ```c++
