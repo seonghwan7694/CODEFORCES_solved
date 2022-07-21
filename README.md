@@ -16,7 +16,7 @@
 |        Jun/16/2022 18:05        |  [Codeforces Round #802 (Div. 2)](https://github.com/seonghwan7694/CODEFORCES_solved/tree/main/Codeforces%20Round%20%23802%20(Div.%202)%20-%20Jun%2019%202022)   |   [🌏🌏🌏](https://youtu.be/NW_UIuglQ1I)  | 😍❌❌❌❌❌ |
 |         Jun/28/2022 23:35       |   [Codeforces Round #803 (Div. 2)](https://github.com/seonghwan7694/CODEFORCES_solved/tree/main/Codeforces%20Round%20%23803%20(Div.%202)%20-%20Jun%2028%202022)   |   [🌏🌏🌏](https://youtu.be/B2KI8USvfg8)   | 😍🤬🤬❌❌❌ |
 |        Jul/10/2022 23:35        |   [Codeforces Round #805 (Div. 3)](https://github.com/seonghwan7694/CODEFORCES_solved/tree/main/Codeforces%20Round%20%23805%20(Div.%203)%20-%20Jul%2010%202022)   |   [🌏🌏🌏](https://youtu.be/0LMi8-jnhhI)   | 😍😍🤬😍❌❌❌❌ |
-|        🚧🚧🚧        |   🚧🚧🚧   |   🚧🚧🚧   | 🚧🚧🚧 |
+|        Jul/21/2022 23:35        |   [Educational Codeforces Round 132 (Rated for Div. 2)]()   |   [🌏🌏🌏](https://youtu.be/WUS5HvcMML0)   | 😍😍🤢❌❌❌ |
 |        🚧🚧🚧        |   🚧🚧🚧   |   🚧🚧🚧   | 🚧🚧🚧 |
 
 
